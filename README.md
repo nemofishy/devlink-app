@@ -1,4 +1,4 @@
-# DevLink.ai — Frontend Prototype
+# DevLink
 
 A clickable, fully-styled Next.js prototype of DevLink.ai's product experience. This is **not** connected
 to a real backend — there's no database, no auth, no live AI or sandbox infrastructure. Every interactive
